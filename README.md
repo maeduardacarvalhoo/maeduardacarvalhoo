@@ -151,7 +151,6 @@ Meu objetivo é explorar o universo da Cybersecurity, aprimorar minhas habilidad
   />
 </div>
 
-
 ## GITHUB ANALYTICS
 
 div align="center">
