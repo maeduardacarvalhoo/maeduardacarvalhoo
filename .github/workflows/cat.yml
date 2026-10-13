@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Create animated hacker cat
+      - name: Create animated cat
         shell: bash
         run: |
           mkdir -p dist
@@ -49,9 +49,9 @@ jobs:
             </g>
 
             <g fill="#22d3ee" font-family="monospace" font-size="12" opacity=".65">
-              <text x="28" y="30">NEXUS // CYBER DEFENSE</text>
+              <text x="28" y="30">CYBER DEFENSE</text>
               <text x="600" y="30">AGENT: CAT-01</text>
-              <text x="28" y="225">root@nexus:~$ monitoring_system</text>
+              <text x="28" y="225">root@mcarvalho:~$ monitoring_system</text>
             </g>
 
             <g transform="translate(390 120)">
