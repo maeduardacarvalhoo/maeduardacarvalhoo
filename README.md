@@ -177,11 +177,17 @@ div align="center">
 
 ## ACHIEVEMENTS UNLOCKED
 
+
+<h2 align="center">🏆 ACHIEVEMENTS UNLOCKED</h2>
+
 <div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=maeduaardacarvalhoo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4&title=Stars,Followers,Commits,Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Profile Trophies" />
-
+  <img
+    width="100%"
+    src="./profile/trophy.svg"
+    alt="GitHub Profile Trophies"
+  />
 </div>
+
 
 ---
 
