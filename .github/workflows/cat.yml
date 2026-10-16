@@ -1,3 +1,4 @@
+
 name: Generate Cat
 
 on:
@@ -43,6 +44,7 @@ jobs:
             </defs>
 
             <rect width="800" height="250" rx="18" fill="url(#bg)"/>
+
             <g stroke="#22d3ee" opacity=".12">
               <path d="M0 40H800 M0 80H800 M0 120H800 M0 160H800 M0 200H800"/>
               <path d="M40 0V250 M80 0V250 M120 0V250 M160 0V250 M200 0V250"/>
@@ -111,7 +113,8 @@ jobs:
                 <animate attributeName="opacity"
                   values="1;0;1" dur="1.2s"
                   repeatCount="indefinite"/>
-                &gt; system secure_</text>
+                &gt; system secure_
+              </text>
             </g>
 
             <circle cx="740" cy="205" r="4" fill="#22d3ee">
