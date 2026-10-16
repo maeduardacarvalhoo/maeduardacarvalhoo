@@ -89,8 +89,6 @@ Meu objetivo é explorar o universo da Cybersecurity, aprimorar minhas habilidad
 
 </div>
 
-
-
 ---
 
 ## FERRAMENTAS DO SISTEMA
@@ -140,17 +138,6 @@ Meu objetivo é explorar o universo da Cybersecurity, aprimorar minhas habilidad
 
 ---
 
-
-## CYBER CAT
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/maeduardacarvalhoo/maeduardacarvalhoo/output/hacker-cat.svg"
-    alt="Gato"
-  />
-</div>
-
 ## GITHUB ANALYTICS
 
 div align="center">
@@ -178,7 +165,7 @@ div align="center">
 ## ACHIEVEMENTS UNLOCKED
 
 
-<h2 align="center">🏆 ACHIEVEMENTS UNLOCKED</h2>
+<h2 align="center"></h2>
 
 <div align="center">
   <img
@@ -194,11 +181,12 @@ div align="center">
 ## CONTRIBUTION MATRIX
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/maeduaardacarvalhoo/maeduaardacarvalhoo/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/maeduardacarvalhoo/maeduardacarvalhoo/output/hacker-cat.svg"
+    alt="Gato"
+  />
 </div>
-
 ---
 
 ## ESTABLISH CONNECTION
