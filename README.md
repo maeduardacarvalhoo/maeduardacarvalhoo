@@ -19,7 +19,6 @@
 </div>
 
 
----
 
 ## SOBRE MIM
 
@@ -52,7 +51,6 @@ Meu objetivo é explorar o universo da Cybersecurity, aprimorar minhas habilidad
 
 <br clear="right"/>
 
----
 
 ## TECH STACK
 
@@ -136,11 +134,11 @@ Meu objetivo é explorar o universo da Cybersecurity, aprimorar minhas habilidad
 - **PACKET WATCH** — laboratório de estudos para análise de tráfego de rede e investigação de protocolos.
 - **BLUE TEAM NOTES** — repositório de anotações, laboratórios e investigações práticas de cibersegurança defensiva.
 
----
+
 
 ## GITHUB ANALYTICS
 
-div align="center">
+<div align="center">
 
   <!-- GITHUB STATS -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maeduardacarvalhoo&show_icons=true&hide_border=true&bg_color=000000&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6" alt="GitHub Statistics" />
@@ -153,14 +151,6 @@ div align="center">
   <!-- CONTRIBUTION STREAK -->
   <img width="70%" src="https://streak-stats.demolab.com?user=maeduardacarvalhoo&hide_border=true&background=000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak" />
 
-  <br/><br/>
-
-  <!-- CONTRIBUTION ACTIVITY -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maeduardacarvalhoo&bg_color=000000&color=FFFFFF&line=8B5CF6&point=8B5CF6&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub Contribution Activity" />
-
-</div>
-
----
 
 ## ACHIEVEMENTS UNLOCKED
 
@@ -196,9 +186,14 @@ div align="center">
   <a href="https://github.com/maeduaardacarvalhoo">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
   </a>
-<a href="www.linkedin.com/in/maeduardacarvalho">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=000000&color=000000"alt="LinkedIn"/>
+
+<a href="https://www.linkedin.com/in/maeduardacarvalho/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+
   <a href="mailto:maeduarda.carvalhoo@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email" />
   </a>
